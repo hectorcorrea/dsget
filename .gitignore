@@ -1,0 +1,7 @@
+# Data files downloaded
+data/
+
+# Executables
+dsdown
+dsdown.exe
+dsdown_linux
